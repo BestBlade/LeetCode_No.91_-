@@ -49,6 +49,6 @@
   *	执行用时：0 ms, 在所有 C++ 提交中击败了100.00%的用户
   *	内存消耗：6 MB, 在所有 C++ 提交中击败了79.46%的用户
   
-来源：力扣（LeetCode）
-链接：https://leetcode-cn.com/problems/decode-ways
+来源：力扣（LeetCode）\
+链接：https://leetcode-cn.com/problems/decode-ways \
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
